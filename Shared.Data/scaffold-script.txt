@@ -1,0 +1,3 @@
+﻿// Script to scaffold the database.
+
+Scaffold-DbContext "Server=tcp:dms-portal-server.database.windows.net,1433;Initial Catalog=dms-portal-db; Trusted_Connection=false;User=dms-admin;Password=Passworded123!!" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f

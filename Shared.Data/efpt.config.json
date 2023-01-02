@@ -1,0 +1,63 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DmsportaldbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Shared.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[FaqCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Faqs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestComments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Requests]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestsChangeLogs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestStatuses]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-6D7R4GA.DangoteSupportDB",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
